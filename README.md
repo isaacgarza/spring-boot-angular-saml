@@ -1,4 +1,4 @@
-# spring-boot-angular-saml
+# spring-boot-react-saml
 
 ## Prerequisites
 - [Homebrew](https://brew.sh/): For installing the below progams
